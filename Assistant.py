@@ -25,6 +25,14 @@ def greet():
     else:
         speak("Good evening!")
 speak("This is your desktop assistant!! what can i do for you")
+print("say search is wikipedia to search")
+print("say search is wikipedia to search")
+print("say search is wikipedia to search")
+print("say search is wikipedia to search")
+print("say search is wikipedia to search")
+print("say search is wikipedia to search")
+print("say search is wikipedia to search")
+
 # def commands():
 #     r=sr.Recognizer()
 #     with sr.Microphone() as source:
